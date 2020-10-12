@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505644647 source:d:\biancheng\suanfa\kuaisupaixu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
